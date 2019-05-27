@@ -16,12 +16,12 @@ Ford GoBike, like other bike share systems, consists of a fleet of specially des
 The bikes are available for use 24 hours/day, 7 days/week, 365 days/year and riders have access to all bikes in the network when they become a member or purchase a pass.
 
 
-Original structure
+#### Original structure
 
 This first dataset has more than 2.7 million records in 16 columns and includes records from 2018-01-01 to 2019-09-30.
 
 
-The final structure has more than 2.5 million records in 21 columns where we can see:
+#### The final structure has more than 2.5 million records in 21 columns where we can see:
 
 * The times of the journeys
 * From where and where with geolocation
@@ -30,8 +30,7 @@ The final structure has more than 2.5 million records in 21 columns where we can
 
 In addition columns of year, week, month, day and hour have been added for a better subsequent analysis
 
-
-Main features
+#### Main features
 
 * Initially I would like to see what is the general trend of monthly use, use by age and by gender in general terms
 * Later I would like to check the same data with the year 2019 to see the trend.
@@ -40,7 +39,7 @@ Main features
 
 	
 ***************************************************************************************	
-Final analysis:
+### Final analysis:
 
 As more significant results I would highlight:
 
